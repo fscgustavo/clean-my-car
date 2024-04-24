@@ -1,0 +1,51 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-af4fde931b20855a.js",
+      "static/chunks/f7d3e6d4-6d565511d5ba49d7.js",
+      "static/chunks/717-dc6bfae33d4d1fd4.js",
+      "static/chunks/main-app-005bb8e219dee118.js",
+      "static/chunks/app/_not-found/page-b8d454d958e2bd52.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-af4fde931b20855a.js",
+      "static/chunks/f7d3e6d4-6d565511d5ba49d7.js",
+      "static/chunks/717-dc6bfae33d4d1fd4.js",
+      "static/chunks/main-app-005bb8e219dee118.js",
+      "static/css/2a287b40bcb10593.css",
+      "static/chunks/480-7f7daea5b4b5aef7.js",
+      "static/chunks/app/layout-72a6e4f23c0d6607.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-af4fde931b20855a.js",
+      "static/chunks/f7d3e6d4-6d565511d5ba49d7.js",
+      "static/chunks/717-dc6bfae33d4d1fd4.js",
+      "static/chunks/main-app-005bb8e219dee118.js",
+      "static/chunks/app/page-658fa374b375a8f5.js"
+    ],
+    "/(login)/forgot-password/page": [
+      "static/chunks/webpack-af4fde931b20855a.js",
+      "static/chunks/f7d3e6d4-6d565511d5ba49d7.js",
+      "static/chunks/717-dc6bfae33d4d1fd4.js",
+      "static/chunks/main-app-005bb8e219dee118.js",
+      "static/chunks/976-10bd7036a6a4dad2.js",
+      "static/chunks/app/(login)/forgot-password/page-3366c6118de2c60b.js"
+    ],
+    "/(login)/layout": [
+      "static/chunks/webpack-af4fde931b20855a.js",
+      "static/chunks/f7d3e6d4-6d565511d5ba49d7.js",
+      "static/chunks/717-dc6bfae33d4d1fd4.js",
+      "static/chunks/main-app-005bb8e219dee118.js",
+      "static/chunks/app/(login)/layout-53775f1034da77f9.js"
+    ],
+    "/(login)/login/page": [
+      "static/chunks/webpack-af4fde931b20855a.js",
+      "static/chunks/f7d3e6d4-6d565511d5ba49d7.js",
+      "static/chunks/717-dc6bfae33d4d1fd4.js",
+      "static/chunks/main-app-005bb8e219dee118.js",
+      "static/chunks/480-7f7daea5b4b5aef7.js",
+      "static/chunks/976-10bd7036a6a4dad2.js",
+      "static/chunks/app/(login)/login/page-bb9630a1d03fa2ee.js"
+    ]
+  }
+}
